@@ -40,7 +40,7 @@ The format of the dataset document should be:
     label_index3    I am in category 3,
 ```
 
-##Installation
+## Installation
 > pip install CNClassifier==1.0.4
 
 ## License
